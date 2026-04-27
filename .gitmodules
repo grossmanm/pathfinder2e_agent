@@ -1,0 +1,3 @@
+[submodule "aon_source/archives-of-nethys-scraper"]
+	path = aon_source/archives-of-nethys-scraper
+	url = https://github.com/LukasParke/archives-of-nethys-scraper/tree/main
