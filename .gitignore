@@ -1,6 +1,5 @@
-aon_source
-data
-logs
-pathfinder
-text
-output
+data/*
+logs/*
+pathfinder/*
+text/*
+output/*
